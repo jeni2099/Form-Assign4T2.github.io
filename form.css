@@ -1,0 +1,71 @@
+body {
+    background: url(b4.jpg);
+    font-size: 130%;
+    font-weight: 900;
+}
+.card {
+    padding: 50px;
+    margin-left: 420px;
+    background: linear-gradient(45deg,rgba(14, 219, 14, 0.77),rgba(18, 196, 250, 0.35));
+    box-shadow: 0 0 20px rgba(34, 30, 33, 0.5);
+    width: 33%;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.a {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 20px;
+}
+.b {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+.c{
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+select {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid black;
+} 
+.d {
+    margin-left: 50px;
+}
+.e{
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 40px;
+}
+.f {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 35px;
+}
+.g {
+    margin-left: 45px;
+}
+.h {
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
